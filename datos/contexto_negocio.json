@@ -1,0 +1,5 @@
+{
+  "France": {"segmento_prioritario": "Masivo", "tasa_retencion_objetivo": 0.92},
+  "Spain": {"segmento_prioritario": "Inversionista", "tasa_retencion_objetivo": 0.95},
+  "Germany": {"segmento_prioritario": "Premium", "tasa_retencion_objetivo": 0.94}
+}
